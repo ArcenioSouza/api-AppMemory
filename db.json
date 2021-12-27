@@ -22,5 +22,13 @@
       "title": "Oi amorzito",
       "description": "Como vc está?"
     }
+  ],
+
+  "cadastroResiliaFlix": [
+    {
+      "id": 2,
+      "title": "Oi amorzito",
+      "description": "Como vc está?"
+    }
   ]
 }
