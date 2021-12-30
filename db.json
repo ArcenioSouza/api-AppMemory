@@ -25,6 +25,27 @@
   ],
 
   "cadastroResiliaFlix": [
-    
+    {
+      "id": "teste@teste.com",
+      "nome": "Teste",
+      "senha": "12345678",
+      "cep": "08390-390",
+      "rua": "Rua Conde de Ericeira",
+      "bairro": "Jardim Santo André",
+      "cidade": "São Paulo",
+      "numero": "5",
+      "estado": "SP"
+    },
+    {
+      "id": "ivyricha@gmail.com",
+      "nome": "Ivy",
+      "senha": "12345678",
+      "cep": "08390-390",
+      "rua": "Rua Conde de Ericeira",
+      "bairro": "Jardim Santo André",
+      "cidade": "São Paulo",
+      "numero": "5",
+      "estado": "SP"
+    }
   ]
 }
